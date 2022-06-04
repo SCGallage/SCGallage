@@ -1,4 +1,4 @@
-## Hey There! I'm Sanka. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hey There! I'm Sanka. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 
 <!--
 **SCGallage/SCGallage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
