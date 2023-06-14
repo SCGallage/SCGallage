@@ -50,12 +50,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/SCGallage">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SCGallage&theme=buefy&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="mailto:gallagesanka03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
